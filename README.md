@@ -76,11 +76,13 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Python
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Function return type
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: Esse gráfico mostra o número de funções que apresentam e que não apresentam o tipo de retorno explicitamente declarado. No início do projeto, observa-se uma diferença considerável entre esses dois números. Pelo gráfico, em 2020, parece que quase nenhuma função tinha o tipo de retorno explicitado. No entanto, a tendência ao longo da evolução do repositório é que o número de funções com tipo de retorno cresceu, enquanto o número de funções sem tipo de retorno diminuiu.
+
+Embora a linguagem Python não exija a declaração explícita de tipos, essa prática é recomendada, pois traz vários benefícios. Por exemplo, o código se torna mais claro e inteligível quando o tipo de retorno é declarado, facilitando para o leitor entender o que exatamente a função retorna e, consequentemente, seu comportamento. Em especial, como o repositório tem fins didáticos, essa clareza é ainda mais importante.
 
 
 
